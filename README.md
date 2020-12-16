@@ -9,4 +9,6 @@ MyFileReader- Class to take an input file and return
 MyFileWriter- Class to contruct an output .txt file
 
 
+MyMatrixReader -Class to take input file of matrices and parse from string to matrices
+
 To be adapted as users see fit
